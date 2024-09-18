@@ -16,11 +16,11 @@ And learning in other platforms.
 
 ### Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,java,php)](https://skillicons.dev)
 
 ### Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,docker)](https://skillicons.dev)
 
 ### Im thinking of learning
 
@@ -31,7 +31,7 @@ And learning in other platforms.
 
 ### My tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,phpstorm,pycharm,clion,ps,ai,mysql,linux,vim,notion,npm,react,atackoverflow,discord,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,html,webstorm,phpstorm,pycharm,clion,ps,ai,mysql,linux,vim,notion,npm,react,atackoverflow,discord,git&perline=5)](https://skillicons.dev)
 
 
 <!--horizontal divider(gradiant)-->
